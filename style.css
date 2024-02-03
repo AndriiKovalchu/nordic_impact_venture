@@ -1802,9 +1802,6 @@ a.meanmenu-reveal i {
 
 /*-- About Content --*/
 .about-content {
-  background-image: url(img/about/content-bg.png);
-  background-repeat: no-repeat;
-  background-position: center center;
   padding-left: 50px;
 }
 @media only screen and (max-width: 767px) {

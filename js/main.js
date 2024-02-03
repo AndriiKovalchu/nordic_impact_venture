@@ -23,13 +23,13 @@ $('.main-menu nav').meanmenu({
 /*--
 	Hero Slider
 -----------------------------------*/
-$('#hero-slider').nivoSlider({
-    prevText: '<span>P</span><i class="zmdi zmdi-long-arrow-left"></i>',
-    nextText: '<span>N</span><i class="zmdi zmdi-long-arrow-right"></i>',
-    controlNav: false,
-    effect: 'boxRainGrow',
-    pauseTime: 5000,
-});
+// $('#hero-slider').nivoSlider({
+//     prevText: '<span>P</span><i class="zmdi zmdi-long-arrow-left"></i>',
+//     nextText: '<span>N</span><i class="zmdi zmdi-long-arrow-right"></i>',
+//     controlNav: false,
+//     effect: 'boxRainGrow',
+//     pauseTime: 5000,
+// });
 
 /*--
 	Counter UP
